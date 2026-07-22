@@ -119,5 +119,6 @@ This project demonstrates the complete workflow for multimodal semantic video re
 
 The implementation highlights practical applications of CLIP embeddings, FAISS indexing, and natural language search for efficient exploration of video content.
 
-## Designed, Developed & Documented by
+
+Designed, Developed & Documented by
 ## Syed Alia Samia
