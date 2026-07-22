@@ -1,6 +1,8 @@
 # Semantic Video Retrieval System
 ### Multimodal Video Search using CLIP & FAISS
 
+<img width="2048" height="1152" alt="Semantic Video Retrieval System - Hero Banner 2" src="https://github.com/user-attachments/assets/693eb442-cf61-4666-9616-5113b8e4a4cc" />
+
 ## Overview
 
 Semantic Video Retrieval System is a proof-of-concept multimodal AI application that enables natural language search across multiple video files.
