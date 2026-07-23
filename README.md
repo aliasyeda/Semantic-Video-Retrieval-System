@@ -71,6 +71,14 @@ Top Matching Frame
 
 ---
 
+## Dataset
+
+This project was evaluated using a small collection of publicly available sample videos for proof-of-concept testing.
+
+To reproduce the project, create a `videos/` directory and place your own `.mp4` files inside it before running the notebook.
+
+---
+
 ## How It Works
 
 1. Upload one or more video files.
@@ -80,6 +88,16 @@ Top Matching Frame
 5. Convert a natural language query into a CLIP text embedding.
 6. Perform similarity search against indexed frame embeddings.
 7. Return the most relevant frame together with its source video and timestamp.
+
+
+---
+
+## Running the Project
+
+1. Create a folder named `videos`.
+2. Place your own `.mp4` files inside the folder.
+3. Run the notebook from top to bottom.
+4. Enter a natural language query (e.g., "person", "cat", "kitchen") to retrieve the most relevant frames.
 
 ---
 
